@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d \! name . \! name .. print | wc -l
+find . -type d \! name . \! name .. print | fmt | wc -l
