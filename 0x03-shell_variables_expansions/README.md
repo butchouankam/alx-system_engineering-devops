@@ -18,4 +18,4 @@ File name				| Description
 100-decimal_to_hexadecimal		| A script that converts a number from base 10 to base 16. <ul><li>The number in base 10 is stored in the environment variable `DECIMAL`</li><li>The script sould display the number in base 16, followed by a new line.</li></ul>
 101-rot13				| A script that encodes and decodes text using rot13 encryption. ASCII assumed.
 102-odd					| A script that prin every other line from the input, starting with the first line.
-13-water_and_stir			| A shell script that adds the two number stored in environment variables `WATER`and `STIR` and prints the result. 
+103-water_and_stir			| A shell script that adds the two number stored in environment variables `WATER`and `STIR` and prints the result 
